@@ -36,4 +36,4 @@ def calculadora():
     else:
         print("Operação inválida!")
 
-calculadora()
+calculadora() alterado
